@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pages/Achinteya/MentorUp/static/css/main.a0ee0cfc.chunk.css",
+    "main.js": "/pages/Achinteya/MentorUp/static/js/main.080b1fd2.chunk.js",
+    "main.js.map": "/pages/Achinteya/MentorUp/static/js/main.080b1fd2.chunk.js.map",
+    "runtime-main.js": "/pages/Achinteya/MentorUp/static/js/runtime-main.5d2c18d3.js",
+    "runtime-main.js.map": "/pages/Achinteya/MentorUp/static/js/runtime-main.5d2c18d3.js.map",
+    "static/js/2.8e4f0013.chunk.js": "/pages/Achinteya/MentorUp/static/js/2.8e4f0013.chunk.js",
+    "static/js/2.8e4f0013.chunk.js.map": "/pages/Achinteya/MentorUp/static/js/2.8e4f0013.chunk.js.map",
+    "static/js/3.f3bf7811.chunk.js": "/pages/Achinteya/MentorUp/static/js/3.f3bf7811.chunk.js",
+    "static/js/3.f3bf7811.chunk.js.map": "/pages/Achinteya/MentorUp/static/js/3.f3bf7811.chunk.js.map",
+    "index.html": "/pages/Achinteya/MentorUp/index.html",
+    "static/css/main.a0ee0cfc.chunk.css.map": "/pages/Achinteya/MentorUp/static/css/main.a0ee0cfc.chunk.css.map",
+    "static/js/2.8e4f0013.chunk.js.LICENSE.txt": "/pages/Achinteya/MentorUp/static/js/2.8e4f0013.chunk.js.LICENSE.txt",
+    "static/media/695655856.6a394dd8.jpg": "/pages/Achinteya/MentorUp/static/media/695655856.6a394dd8.jpg",
+    "static/media/logo.6ce24c58.svg": "/pages/Achinteya/MentorUp/static/media/logo.6ce24c58.svg",
+    "static/media/tempLogo.f5fa63a0.png": "/pages/Achinteya/MentorUp/static/media/tempLogo.f5fa63a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d2c18d3.js",
+    "static/js/2.8e4f0013.chunk.js",
+    "static/css/main.a0ee0cfc.chunk.css",
+    "static/js/main.080b1fd2.chunk.js"
+  ]
+}
